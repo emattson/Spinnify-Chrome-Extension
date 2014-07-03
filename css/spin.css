@@ -1,0 +1,4 @@
+ :hover{
+	-webkit-transform: rotate(360deg) !important;
+	-webkit-transition: all 1s ease-out !important;
+}
